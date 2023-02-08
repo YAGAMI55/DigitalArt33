@@ -520,7 +520,7 @@ nav .mbr-section-btn {
 }
 
 .menu .navbar-brand {
-  display: auto;
+  display: -webkit-flex;
 }
 .menu .navbar-brand span {
   display: flex;
